@@ -1,0 +1,8 @@
+Commands:
+
+help - Displays the help message
+play - Play to get a chance to win turkey
+turkey - Returns how much turkey you have
+sell - Choose things you want to sell
+print - Prints something
+exit - Exits this bot
