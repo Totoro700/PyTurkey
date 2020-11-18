@@ -31,7 +31,7 @@ text('Type "help" for a list of commands you can use')
 while True:
     cmd = input('')
     if cmd == 'help':
-        text('Bot commands:')
+        text('Turkey commands:')
         text('help - Opens the Bot Command list')
         text('play - Play to get a chance to win turkey')
         text('turkey - Returns how much turkey you have')
