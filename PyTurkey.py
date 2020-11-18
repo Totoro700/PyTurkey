@@ -36,15 +36,12 @@ while True:
         text('play - Play to get a chance to win turkey')
         text('turkey - Returns how much turkey you have')
         text('sell - Choose things you want to sell')
+        text('print - Prints something')
         text('exit - Exits this bot')
-    elif cmd == '!coolPrint':
+    elif cmd == 'print':
         text('Okay, what should we print?')
-        acy = input('')
-        text(acy)
-    elif cmd == '!regularPrint':
-        text('Okay, what should we print?')
-        acy = input('')
-        print(acy)
+        a = input('')
+        text('Turkey disabled printing')
     elif cmd == 'exit':
         text('Data you entered(turkey, paper and others) will not be saved! Are you sure you want to exit? Y = Exit | N = Cancel')
         exitInput = input('')
