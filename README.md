@@ -18,3 +18,4 @@ Find the file named "PyTurkey.py", open it, and run the code or click [here](htt
 Once you run it, you can type [commands](https://github.com/Totoro700/PyTurkey/commands.txt) and play a small game to get turkey! Don't sell them though!
 
 
+(This repo is now archived)
