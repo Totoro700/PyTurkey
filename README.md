@@ -1,9 +1,10 @@
 # PyTurkey
 
+Status: No longer under active development
+
 ---
 
 A Python program for Thanksgiving!
-
 
 ---
 
